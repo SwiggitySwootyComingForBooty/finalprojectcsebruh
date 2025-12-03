@@ -1,4 +1,4 @@
-
+// hello
 Canvas::Canvas(int x, int y, int w, int h) : Canvas_(x, y, w, h): Canvas(x, y, w, h) {
     scribble = new Scribble();
 }
